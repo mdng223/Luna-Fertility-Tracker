@@ -70,3 +70,11 @@ extension String
 ```
 
 - Use **tabs** in Xcode...(not spaces)
+
+## Authors
+
+* **Logan Blevins** - [loganblevins](https://github.com/loganblevins)
+* **Daniel Ng** - [mdng223](https://github.com/mdng223)
+* **Da-Un Chung** - [dch234](https://github.com/dch234)
+* **Mazin Zakaria**
+* **Erika Wilcox**
